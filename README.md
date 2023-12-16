@@ -1,7 +1,9 @@
 # level-3
 
 프론트엔드스쿨 5조 level 3
+
 ** 이 문제는 https://github.com/bradtraversy/50projects50days?tab=readme-ov-file의 깃헙을 참고해 만들었습니다.**
+
 <br>
 
 [노션 링크 바로가기](https://www.notion.so/Level-3-a66d059b378c468c9d12be7491b250ac)
