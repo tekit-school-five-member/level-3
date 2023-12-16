@@ -39,11 +39,15 @@ git checkout -b feature/<yourName>
 
 <br>
 
-4. feature/\<yourName> 브랜치에서 수정한 내용 \<yourName> 브랜치로 PullRequest
+<ul>
+  <ol>
+     feature/\<yourName> 브랜치에서 수정한 내용 \<yourName> 브랜치로 PullRequest
+  </ol>
+</ul>
 
 <br>
 
-  저장소 꼭 확인해주세요.
+저장소 꼭 확인해주세요.
 
 <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/76d54486-3a57-43d3-96e3-bd6bb3f0ed61"/>
 
