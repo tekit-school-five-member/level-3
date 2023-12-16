@@ -18,13 +18,16 @@
 
 <ol>
   <li><h4>clone level-3 repository</h4>
+    
   ```
   git clone https://github.com/tekit-school-five-member/level-3.git
   ```
 
-    <br>
+  <br>
+    
   </li>
   <li><h4>본인 이름의 branch 생성</h4>
+    
   ```
   git checkout -b <yourName>
   ```
@@ -32,11 +35,13 @@
 <br>
   </li>
   <li><h4>본인 이름 브랜치의 feature 브런치 생성</h4>
+    
   ```
   git checkout -b feature/<yourName>
   ```
-    <p>어려우시면 깃허브에서 아래의 방법을 사용하세요.</p>
-    <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
+
+  <p>어려우시면 깃허브에서 아래의 방법을 사용하세요.</p>
+  <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
 <br>
   </li>  
   <li>
