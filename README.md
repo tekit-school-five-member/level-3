@@ -16,7 +16,7 @@
 
 <br>
 
-<ol>
+<ol width="900px">
   <li>
     <h4>clone level-3 repository</h4>
   
