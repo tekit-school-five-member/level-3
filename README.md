@@ -23,15 +23,17 @@
     ```
     git clone https://github.com/tekit-school-five-member/level-3.git
     ```
+    
   <br>
     <br>
     </li>
   <li>
     <h4>본인 이름의 branch 생성</h4> 
-    
+
     ```
     git checkout -b <yourName>
     ```
+
   <br>
     <br>
   </li>
