@@ -23,8 +23,8 @@ git clone https://github.com/tekit-school-five-member/level-3.git
 ```
 git checkout -b feature/<yourName>
 ```
-어려우시면 깃허브에서 아래의 방법을 사용하세요.
-<img width="500px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
+어려우시면 깃허브에서 아래의 방법을 사용하세요. <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
 
 4. feature/\<yourName> 브랜치에서 수정한 내용 \<yourName> 브랜치로 PullRequest
  
