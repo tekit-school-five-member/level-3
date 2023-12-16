@@ -21,7 +21,6 @@
 ```
 git clone https://github.com/tekit-school-five-member/level-3.git
 ```
-
 <br>
 
 2. <h4>본인 이름의 branch 생성
@@ -35,7 +34,7 @@ git checkout -b <yourName>
 3. 본인 이름 브랜치의 feature 브런치 생성
     
 ```
-  git checkout -b feature/<yourName>
+git checkout -b feature/<yourName>
 ```
 
 <br>
