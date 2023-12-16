@@ -46,9 +46,11 @@
   </li>  
   <li>
     <h4>feature/&lt;yourName&gt; 브랜치에서 수정한 내용 &lt;yourName&gt; 브랜치로 PullRequest</h4>
+  <br>   
     <p>저장소 꼭 확인해주세요.</p>
     <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/76d54486-3a57-43d3-96e3-bd6bb3f0ed61"/>
-      <br>
+    <br>  
+    <br>
     <p>pull request 작성시 아래 이미지를 참고해주세요.</p>
   <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/270e9372-7b61-42db-9045-0f58ce6c3408"/>
       <br>
