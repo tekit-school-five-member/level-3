@@ -23,7 +23,7 @@ git clone https://github.com/tekit-school-five-member/level-3.git
 ```
 git checkout -b feature/<yourName>
 ```
-4. feature/<yourName> 브랜치에서 수정한 내용 <yourName> 브랜치로 PullRequest
+4. feature/\<yourName> 브랜치에서 수정한 내용 \<yourName> 브랜치로 PullRequest
  
 
 <br>
