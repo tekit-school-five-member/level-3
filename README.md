@@ -17,7 +17,7 @@
 
 
 1. clone level-3 repository
-  
+
 ```
 git clone https://github.com/tekit-school-five-member/level-3.git
 ```
@@ -34,7 +34,7 @@ git checkout -b <yourName>
 3. 본인 이름 브랜치의 feature 브런치 생성
     
 ```
-  git checkout -b feature/<yourName>
+git checkout -b feature/<yourName>
 ```
 
 <br>
@@ -60,6 +60,5 @@ git checkout -b <yourName>
 ## 목표
 
 - [ ] <code>#boxes</code>안에 <code>class="box"</code>를 가진 <code>\<div></code>를 9개 만들기
-
 - [ ] <code>#btn</code>을 누르면 <code>"big"</code> 클래스 토글
 - [ ] <code>big</code>클래스가 토글 될때마다 애니메이션
