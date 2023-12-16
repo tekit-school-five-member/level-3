@@ -12,9 +12,9 @@
 
 ## 프로젝트 시작 방법!!
 1. clone level-3 repository
-   ```
-   git clone https://github.com/tekit-school-five-member/level-3.git 
-   ```
+```
+git clone https://github.com/tekit-school-five-member/level-3.git 
+```
 2. 본인 이름의 branch 생성
   ```
   git checkout -b <yourName>
