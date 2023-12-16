@@ -14,49 +14,41 @@
 
 ## 프로젝트 시작 방법!!
 
-1. clone level-3 repository
-
-```
-git clone https://github.com/tekit-school-five-member/level-3.git
-```
-
-2. 본인 이름의 branch 생성
-
-```
-git checkout -b <yourName>
-```
-
 <br>
 
-3. 본인 이름 브랜치의 feature 브런치 생성
+<ol>
+  <li><h4>clone level-3 repository</h4>
+  ```
+  git clone https://github.com/tekit-school-five-member/level-3.git
+  ```
 
-```
-git checkout -b feature/<yourName>
-```
-
-어려우시면 깃허브에서 아래의 방법을 사용하세요. <br>
-<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
-
-<br>
-
-<ul>
-  <ol>
-     feature/\<yourName> 브랜치에서 수정한 내용 \<yourName> 브랜치로 PullRequest
-  </ol>
-</ul>
+    <br>
+  </li>
+  <li><h4>본인 이름의 branch 생성</h4>
+  ```
+  git checkout -b <yourName>
+  ```
 
 <br>
-
-저장소 꼭 확인해주세요.
-
-<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/76d54486-3a57-43d3-96e3-bd6bb3f0ed61"/>
-
+  </li>
+  <li><h4>본인 이름 브랜치의 feature 브런치 생성</h4>
+  ```
+  git checkout -b feature/<yourName>
+  ```
+    <p>어려우시면 깃허브에서 아래의 방법을 사용하세요.</p>
+    <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
 <br>
-
-  pull request 작성시 아래 이미지를 참고해주세요.
-
-<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/270e9372-7b61-42db-9045-0f58ce6c3408"/>
-
+  </li>  
+  <li>
+    <h4>feature/\<yourName> 브랜치에서 수정한 내용 \<yourName> 브랜치로 PullRequest</h4>
+    <p>저장소 꼭 확인해주세요.</p>
+    <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/76d54486-3a57-43d3-96e3-bd6bb3f0ed61"/>
+      <br>
+    <p>pull request 작성시 아래 이미지를 참고해주세요.</p>
+  <img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/270e9372-7b61-42db-9045-0f58ce6c3408"/>
+      <br>
+  </li>
+</ol>
 
 <br>
 
