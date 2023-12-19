@@ -14,45 +14,72 @@
 
 ## 프로젝트 시작 방법!!
 
-
-
-1. clone level-3 repository
+### 1. clone level-1 repository
 
 ```
-git clone https://github.com/tekit-school-five-member/level-3.git ./
-```
-<br>
-
-2. 본인 이름의 branch 생성
-
-```
-git checkout -b <yourName>
+git clone https://github.com/tekit-school-five-member/level-2.git ./
 ```
 
-<br>
+<br> <br>
 
-3. 본인 이름 브랜치의 feature 브런치 생성
-    
-```
-git checkout -b feature/<yourName>
-```
+### 2. 본인 이름의 branch 생성
+
+<br> 
+
+2-1. branches 클릭 <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/05e2709f-74f6-4ae6-a170-0b996ec7a0cc" />
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;어려우시면 깃허브에서 아래의 방법을 사용하세요. <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/494198c6-db3c-4429-a76c-3077929bf6fe"/>
+2-2. new branch 클릭 <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/541daf5c-83f8-4c69-b0b0-6d1b306c33f9" />
 
 <br>
 
-4. feature/&lt;yourName&gt; 브랜치에서 수정한 내용 &lt;yourName&gt; 브랜치로 PullRequest
-   
-&nbsp;&nbsp;&nbsp;&nbsp;저장소 꼭 확인해주세요. <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/76d54486-3a57-43d3-96e3-bd6bb3f0ed61"/>
+2-3. 브랜치명에 본인 이름 넣고 create new branch <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/43744ee9-6fbd-4f0d-89fa-0e82bbbe5833" />
 
-<br>  
+<br> <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;pull request 작성시 아래 이미지를 참고해주세요. <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/270e9372-7b61-42db-9045-0f58ce6c3408"/>
+### 3. Organization 레퍼지토리 포크 하기
+
+<br>
+
+3-1. 본인의 포크한 레퍼지토리에 가서 clone 주소 복사 <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/eb640901-5731-49d4-8dd8-941d02c6ac9f"/>
+
+<br>
+
+3-2. 클론하기
+```
+git clone <your repository clone address> ./
+```
+
+<br> <br>
+
+### 4. PR 날리기
+
+<br>
+
+4-1. vscode에서 수정 후 본인 repository에 푸시
+```
+git push -u origin <branch name>
+```
+
+<br>
+
+4-2. Contribute → Open pull request <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/7a68414f-a103-44eb-802f-7f42b5feeacd"/>
+
+<br>
+
+4-3. base와 compare 브랜치 잘 확인 후 pull request 생성하기 (base: **본인 이름 브랜치** ← compare: **본인이 패치하고싶은 브랜치**) <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/7c24f71d-1360-41fb-8a51-e50629550e9c"/>
+
+<br>
+
+4-4. pull request 작성시 아래 이미지를 참고해주세요. <br> <br>
+<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/270e9372-7b61-42db-9045-0f58ce6c3408"/>
 
 <br>
 <br>
