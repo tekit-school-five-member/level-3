@@ -19,7 +19,7 @@
 1. clone level-3 repository
 
 ```
-git clone https://github.com/tekit-school-five-member/level-3.git
+git clone https://github.com/tekit-school-five-member/level-3.git ./
 ```
 <br>
 
